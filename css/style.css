@@ -168,6 +168,34 @@ header p {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
+
+.devPage {
+	background: url(../img/blairheader2.jpg) no-repeat bottom center;
+	background-size: cover;
+	background-position: center;
+	color: #d9e0e2;
+	position: absoulte;
+	height: 100%;
+}
+
+.musicPage {
+	background: url(../img/blairheader3.jpg) no-repeat bottom center;
+	background-size: cover;
+	background-position: center;
+	color: #d9e0e2;
+	position: absoulte;
+	height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
 .intro-text {
 	position: relative;
 	padding-top: 350px;
