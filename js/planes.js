@@ -1,3 +1,5 @@
+var planeArea = document.getElementById("planeArea");
+
 function computeFlightAngle(initX, initY, destinationX, destinationY) {
   if (initX < destinationX) {
 		// right
@@ -41,8 +43,8 @@ function randomNumber(maximum) {
 }
 
 function generatePlane() {
-	var windowHeight = $(window).height();
-	var windowWidth = $(window).width();
+	var windowHeight = $(planeArea).height();
+	var windowWidth = $(planeArea).width();
 		
 	var initX 	= randomNumber(windowWidth);
 	var initY  	= randomNumber(windowHeight);
