@@ -11,12 +11,12 @@ http.createServer(function (req, res){
 	}
 	else if(pathname == "/musician")
 	{
-		res.writeHead(200 {"Content-Type": "text/html"});
+		res.writeHead(200, {"Content-Type": "text/html"});
 		res.end("musician");
 	}
 	else if(pathname == "/dev")
 	{
-		res.writeHead(200 {"Content-Type": "text/html"});
+		res.writeHead(200, {"Content-Type": "text/html"});
 		res.end("dev");
 	}
 
