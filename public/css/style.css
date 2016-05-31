@@ -33,7 +33,7 @@ a {
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #DB504A;
+	color: #edae49;
 }
 .img-centered {
 	margin: 0 auto;
@@ -398,7 +398,7 @@ PORTFOLIO MODALS
 	background-clip: border-box;
 	-webkit-box-shadow: none;
 	box-shadow: none;
-	background: #f1c40f;
+	background: #edae49;
 }
 .portfolio-modal .modal-content h2 {
 	margin-bottom: 15px;
@@ -554,7 +554,7 @@ label {
 #contact-section .social i.fa {
 	font-size: 26px;
 	padding: 4px 5px;
-	color: #f8e287;
+	color: #EDAE49;
 	transition: all 0.5s;
 }
 #contact-section .social i.fa:hover {
