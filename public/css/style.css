@@ -175,7 +175,7 @@ DEV PAGE HEADER
 ******************************************/
 
 .devPage {
-	background: url(../img/blairheader2.jpg) no-repeat bottom center;
+	background: url(../img/blairHeader2.jpg) no-repeat bottom center;
 	background-size: cover;
 	background-position: center;
 	color: #456990;
@@ -188,7 +188,7 @@ MUSIC PAGE HEADER
 *******************************************/
 
 .musicPage {
-	background: url(../img/blairheader3.jpg) no-repeat bottom center;
+	background: url(../img/blairHeader3.jpg) no-repeat bottom center;
 	background-size: cover;
 	background-position: center;
 	color: #456990;
